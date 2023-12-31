@@ -17,4 +17,4 @@ I'm YoungCheon Choi, ___.
 
 
 ## Contact
--cyc8649@gmail.com
+- cyc8649@gmail.com
